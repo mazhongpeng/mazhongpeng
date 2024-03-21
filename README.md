@@ -1,14 +1,15 @@
 ### Hi there 👋
 <img align="center" alt="GIF" height ="100"  src= "https://walfiegif.files.wordpress.com/2023/07/out-transparent-21.gif?w=560&h=261&crop=1" /><img align="center" alt="GIF" height ="100"  src= "https://walfiegif.files.wordpress.com/2023/07/out-transparent-47.gif?w=560&h=148&crop=1" />
 
-## <img height ="50" alt="GIF" src= "https://walfiegif.files.wordpress.com/2023/06/out-transparent-3.gif?w=560&h=560&crop=1" /> aDiao HaHa 🌻
+## <img height ="50" alt="GIF" src= "https://walfiegif.files.wordpress.com/2023/06/out-transparent-3.gif?w=560&h=560&crop=1" /> mazhongpeng
 
-- 👧 Hello, I'm aDiao, an optimistic and cheerful college student who loves life and is always full of curiosity.
-  <img align="right" alt="GIF" height ="150"  src= "https://walfiegif.files.wordpress.com/2023/07/out-transparent-48.gif?w=560&h=560&crop=1" />
-- 📚 During the four years of college, I taught myself programming, and now I focus on front-end development.
-- 🌺 I like hiking, singing, painting, walking at sunset, reading on rainy days...
-- 💬 Only through focus can you do world-class things, no matter how capable you are.
-- 📫 **How to reach me**: 📧 1822734401@qq.com
+- <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;Pronouns: ***She/Her*** or ***CoderGirl***😉
+- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently working on Competitive Programming...
+- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;I’m currently learning <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> and <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />&nbsp;! 
+- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝...
+- <img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">&nbsp;I’m looking for help with Cyber Security 😭!
+- <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
+- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: I've ***13 Reasons Why***▶️&nbsp;to live **Happy** & *Money* is a one of them...
 
 
 ## <img height ="50" alt="GIF" src= "https://walfiegif.files.wordpress.com/2023/07/out-transparent-40.gif?w=560&h=591&crop=1" /> I’m currently learning        
