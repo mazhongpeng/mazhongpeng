@@ -22,8 +22,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ## <img height ="50" alt="GIF" src= "https://walfiegif.files.wordpress.com/2024/01/out-transparent-7.gif?w=560&h=560&crop=1" /> About me:
-- [CSDN](https://blog.csdn.net/aDiaoYa_?type=blog)
-- [bilibili](https://space.bilibili.com/652312752?spm_id_from=333.1007.0.0)
-- [leetcode](https://leetcode.cn/u/tender-keldyshj60/)
+- [CSDN](https://blog.csdn.net/mzp520lf)
+[![mazhongpeng's github stats](https://github-readme-stats.vercel.app/api?username=mazhongpeng)](https://github.com/anuraghazra/github-readme-stats)
 
-![mazhongpeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazhongpeng&show_icons=true&theme=dracula)
