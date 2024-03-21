@@ -9,18 +9,21 @@
 - <img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">&nbsp;**How to reach me**: 📧 1584082798@qq.com
 ## <img height ="50" alt="GIF" src= "https://walfiegif.files.wordpress.com/2023/07/out-transparent-40.gif?w=560&h=591&crop=1" /> I’m currently learning        
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+- 💻 &#160; ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   <img align="right" alt="GIF" height ="150"  src= "https://walfiegif.files.wordpress.com/2023/07/out-transparent-132.gif?w=560&h=560&crop=1" />
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
+- 🌐 &#160; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=gray)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PhothoShop](https://img.shields.io/badge/-PhotoShop-071D34?style=flat-square&logo=Adobe-Photoshop&logoColor=54A7F8)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ## <img height ="50" alt="GIF" src= "https://walfiegif.files.wordpress.com/2024/01/out-transparent-7.gif?w=560&h=560&crop=1" /> About me:
 - [CSDN](https://blog.csdn.net/mzp520lf)
   
